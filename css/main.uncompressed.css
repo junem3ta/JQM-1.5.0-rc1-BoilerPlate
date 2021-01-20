@@ -1,0 +1,7 @@
+[data-type=footer], [data-role=header] {
+    padding: 0 1em;
+}
+
+[data-type=footer] h4 {
+    text-align: left !important;
+}
